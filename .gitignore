@@ -1,0 +1,6 @@
+_build
+public
+__pycache__
+.env
+*.pyc
+*~
